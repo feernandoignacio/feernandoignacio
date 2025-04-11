@@ -1,7 +1,7 @@
 ### Olá! Eu sou Lucas Fernando Ignácio 👋
 
 - 🔭 Atualmente trabalho com Front-end
-- 🌱 Estudo programador stack
+- 🌱 Estudo programador fullstack
 - 📫 Contate-me no email: lfernando.dev@outlook.com
 - 😄 Pronouns: ele/dele
 
