@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com Front-end
 - 🌱 Estudo programador stack
-- 📫 Contate-me no email: lucas.fernando005@hotmail.com
+- 📫 Contate-me no email: lfernando.dev@outlook.com
 - 😄 Pronouns: ele/dele
 
  <div style="display: inline_block"><br>
