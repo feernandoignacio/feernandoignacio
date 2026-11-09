@@ -25,9 +25,23 @@ Desenvolvedor front-end júnior em Americana, SP. Vim da área de segurança e s
 
 ## Projetos em destaque
 
-- [BioGarden Paisagismo](https://github.com/feernandoignacio/Biogarden-Paisagismo): site para um cliente real, no ar. [Ver online](https://feernandoignacio.github.io/Biogarden-Paisagismo/)
-- [Funcionou pra mim](https://github.com/feernandoignacio/Funcionou-pra-mim): site de estudo com cartões, atividades e dicas. [Ver online](https://feernandoignacio.github.io/Funcionou-pra-mim/)
-- [Portfólio](https://github.com/feernandoignacio/Portifolio): meu portfólio, com troca de idioma. [Ver online](https://feernandoignacio.github.io/Portifolio/)
+**BioGarden Paisagismo**: site para um cliente real, no ar.
+
+<a href="https://feernandoignacio.github.io/Biogarden-Paisagismo/"><img alt="Ver online" title="Ver online" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"></a>
+&nbsp;
+<a href="https://github.com/feernandoignacio/Biogarden-Paisagismo"><img alt="Código no GitHub" title="Código no GitHub" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+
+**Funcionou pra mim**: site de estudo com cartões, atividades e dicas.
+
+<a href="https://feernandoignacio.github.io/Funcionou-pra-mim/"><img alt="Ver online" title="Ver online" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"></a>
+&nbsp;
+<a href="https://github.com/feernandoignacio/Funcionou-pra-mim"><img alt="Código no GitHub" title="Código no GitHub" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+
+**Portfólio**: meu portfólio, com troca de idioma.
+
+<a href="https://feernandoignacio.github.io/Portifolio/"><img alt="Ver online" title="Ver online" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"></a>
+&nbsp;
+<a href="https://github.com/feernandoignacio/Portifolio"><img alt="Código no GitHub" title="Código no GitHub" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
 
 ## Contato
 
