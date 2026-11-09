@@ -10,7 +10,7 @@ Desenvolvedor front-end júnior em Americana, SP. Vim da área de segurança e s
   <img alt="CSS3" title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img alt="Bootstrap" title="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img alt="Git" title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="GitHub" title="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img alt="GitHub" title="GitHub" height="40" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/github-branco.svg">
 </p>
 
 ## Em estudo
