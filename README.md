@@ -45,7 +45,10 @@ Desenvolvedor front-end júnior em Americana, SP. Vim da área de segurança e s
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/dev-lucas-fernando/
-- E-mail: lfernando.dev@outlook.com
+<a href="https://www.linkedin.com/in/dev-lucas-fernando/"><img alt="LinkedIn" title="LinkedIn" height="32" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/linkedin-branco.svg"></a>
+&nbsp;&nbsp;
+<a href="mailto:lfernando.dev@outlook.com"><img alt="E-mail" title="E-mail" height="32" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/email-branco.svg"></a>
+
+lfernando.dev@outlook.com
 
 Estou buscando minha oportunidade como desenvolvedor front-end, QA ou suporte técnico.
