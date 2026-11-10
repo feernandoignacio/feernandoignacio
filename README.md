@@ -25,6 +25,12 @@ Desenvolvedor front-end júnior em Americana, SP. Vim da área de segurança e s
 
 ## Projetos em destaque
 
+**Job Application Tracker**: aplicação web em React e TypeScript para organizar candidaturas a vagas.
+
+<a href="https://lucas-job-tracker.vercel.app"><img alt="Ver online" title="Ver online" height="28" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/monitor.svg"></a>
+&nbsp;
+<a href="https://github.com/feernandoignacio/job-application-tracker"><img alt="Código no GitHub" title="Código no GitHub" height="28" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/github-branco.svg"></a>
+
 **BioGarden Paisagismo**: site para um cliente real, no ar.
 
 <a href="https://feernandoignacio.github.io/Biogarden-Paisagismo/"><img alt="Ver online" title="Ver online" height="28" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/monitor.svg"></a>
@@ -39,9 +45,9 @@ Desenvolvedor front-end júnior em Americana, SP. Vim da área de segurança e s
 
 **Portfólio**: meu portfólio, com troca de idioma.
 
-<a href="https://feernandoignacio.github.io/Portifolio/"><img alt="Ver online" title="Ver online" height="28" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/monitor.svg"></a>
+<a href="https://feernandoignacio.github.io/Portfolio/"><img alt="Ver online" title="Ver online" height="28" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/monitor.svg"></a>
 &nbsp;
-<a href="https://github.com/feernandoignacio/Portifolio"><img alt="Código no GitHub" title="Código no GitHub" height="28" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/github-branco.svg"></a>
+<a href="https://github.com/feernandoignacio/Portfolio"><img alt="Código no GitHub" title="Código no GitHub" height="28" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/github-branco.svg"></a>
 
 ## Contato
 
