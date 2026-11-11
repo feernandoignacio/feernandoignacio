@@ -6,26 +6,30 @@ Desenvolvedor front-end júnior em Americana, SP. Vim da área de segurança e s
 
 <p>
   <img alt="JavaScript" title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="TypeScript" title="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="React" title="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alt="HTML5" title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img alt="CSS3" title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="Node.js" title="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="Express" title="Express" height="40" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/express-branco.svg">
+  <img alt="PostgreSQL" title="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img alt="Bootstrap" title="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img alt="Git" title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="GitHub" title="GitHub" height="40" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/github-branco.svg">
+  <img alt="GitHub Actions" title="GitHub Actions" height="40" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/githubactions.svg">
+  <img alt="Vercel" title="Vercel" height="40" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/vercel-branco.svg">
 </p>
 
 ## Em estudo
 
 <p>
-  <img alt="React" title="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img alt="TypeScript" title="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img alt="Node.js" title="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img alt="Python" title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img alt="C#" title="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </p>
 
 ## Projetos em destaque
 
-**Job Application Tracker**: aplicação web em React e TypeScript para organizar candidaturas a vagas.
+**Job Application Tracker**: aplicação full stack para organizar candidaturas a vagas, com login por senha ou Google, painel com resumo, agenda de entrevistas e versões em português e inglês. Feito com React, TypeScript, Node.js, Express e PostgreSQL, com testes automatizados e CI no GitHub Actions.
 
 <a href="https://lucas-job-tracker.vercel.app"><img alt="Ver online" title="Ver online" height="28" src="https://raw.githubusercontent.com/feernandoignacio/feernandoignacio/main/assets/monitor.svg"></a>
 &nbsp;
